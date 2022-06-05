@@ -56,6 +56,7 @@ function formatMessage(message, myNameInput) {
           </div>
       `
   }
+}
 
   sendButton.addEventListener("click", function(sendButtonClickEvent) {
     sendButtonClickEvent.preventDefault();
@@ -82,4 +83,3 @@ function formatMessage(message, myNameInput) {
     });
 }
 
-}
