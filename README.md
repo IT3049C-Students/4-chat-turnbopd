@@ -22,4 +22,4 @@ This lab was cool. The chat worked properly and it was easy to follow along.
 
 ## Discussion Questions:
 1. What does the bootstrap `display-4` class do?
-The `display 4` displays the the title .
+The `display 4` displays the Header title .
